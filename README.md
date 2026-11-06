@@ -86,7 +86,7 @@ I enjoy turning complex business requirements into reliable, maintainable, and h
 
 ## 🚀 Featured Projects
 
-### 01. LaunchBoom — Crowdfunding & Marketing Technology
+### 01. LaunchBoom - Crowdfunding & Marketing Technology
 
 <a href="https://www.launchboom.com/">
   <img src="https://img.shields.io/badge/Visit%20Website-LaunchBoom-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -113,7 +113,7 @@ A crowdfunding and marketing technology solution focused on connecting lead acqu
 
 ---
 
-### 02. Convert — A/B Testing & Personalization SaaS
+### 02. Convert - A/B Testing & Personalization SaaS
 
 <a href="https://www.convert.com/">
   <img src="https://img.shields.io/badge/Visit%20Website-Convert-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -136,7 +136,7 @@ A SaaS platform focused on experimentation, website personalization, conversion 
 
 ---
 
-### 03. Dealership Performance 360 — Automotive CRM Platform
+### 03. Dealership Performance 360 - Automotive CRM Platform
 
 <a href="https://www.dealershipperformancecrm.com/">
   <img src="https://img.shields.io/badge/Visit%20Website-Dealership%20Performance%20360-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -176,16 +176,29 @@ An automotive CRM and business management platform designed to streamline dealer
 
 ---
 
-## 📊 GitHub Statistics
+## 🧩 What I Bring to the Table
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-NEW-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-NEW-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-React_%7C_Next.js_%7C_Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend_Engineering-Python_%7C_Django_%7C_FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-NEW-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/AI_Integration-LLMs_%7C_RAG_%7C_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_%26_DevOps-AWS_%7C_Docker_%7C_CI%2FCD-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
+| Engineering Focus | What I Build |
+|---|---|
+| Full-Stack Development | Scalable web applications and SaaS platforms |
+| Backend Engineering | REST APIs, microservices, and business logic |
+| Frontend Engineering | Responsive interfaces and interactive dashboards |
+| AI Engineering | LLM integrations, RAG, and intelligent automation |
+| Database Engineering | Optimized queries, data models, and caching |
+| Cloud & DevOps | Containerized applications and deployment pipelines |
+| System Integrations | Third-party APIs, webhooks, and automated workflows |
+
+**My Approach:** Clean architecture, maintainable code, scalable solutions, reliable integrations, and user-focused development.
 
 ---
 
@@ -201,5 +214,7 @@ An automotive CRM and business management platform designed to streamline dealer
 </p>
 
 <p align="center">
-  <i>Building reliable software, intelligent applications, and technology that makes a difference.</i>
+ 🚀 **Have an exciting project or a challenging idea?** Let's connect, collaborate, and build something impactful together!
+
+📩 Open to interesting opportunities, collaborations, and innovative software projects. Feel free to reach out!
 </p>
