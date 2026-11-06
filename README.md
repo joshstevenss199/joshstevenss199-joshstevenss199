@@ -214,7 +214,6 @@ An automotive CRM and business management platform designed to streamline dealer
 </p>
 
 <p align="center">
- 🚀 **Have an exciting project or a challenging idea?** Let's connect, collaborate, and build something impactful together!
-
+ 🚀 Have an exciting project or a challenging idea? Let's connect, collaborate, and build something impactful together!
 📩 Open to interesting opportunities, collaborations, and innovative software projects. Feel free to reach out!
 </p>
